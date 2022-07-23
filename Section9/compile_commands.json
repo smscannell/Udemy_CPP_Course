@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/Sam/Udemy_CPP_Course/Section9/Challenge/main.cpp",
+  "directory": "/Users/Sam/Udemy_CPP_Course/Section9/Challenge",
+  "command": "clang  -c /Users/Sam/Udemy_CPP_Course/Section9/Challenge/main.cpp -o /Users/Sam/Udemy_CPP_Course/Section9/Challenge/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
